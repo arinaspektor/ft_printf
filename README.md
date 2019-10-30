@@ -43,7 +43,7 @@ int main(void) {
 }
 ```
 
-## Compiling
+## Compiling and executing
 ```bash
 gcc -o main main.c libftprintf.a -I includes
 ./main
